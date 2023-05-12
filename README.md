@@ -1,8 +1,5 @@
 # Simple-To-Do-List
-This is a simple to-do list web application built with HTML, CSS, and JavaScript. The user can add tasks to the list and mark them as completed by clicking on them. The application also allows the user to delete tasks from the list. The interface is designed with a modern, minimalistic look and is easy to use.
-
-
-This is a sample To-Do List project built using HTML, CSS, and JavaScript. 
+This is a simple to-do list web application built with HTML, CSS, and JavaScript. The user can add tasks to the list and mark them as completed by clicking on them. The application also allows the user to delete tasks from the list. The interface is designed with a modern, minimalistic look and is easy to use. 
 
 The HTML file contains the structure of the project and includes links to external stylesheets and JavaScript files. The CSS file is used to style the HTML elements, and the JavaScript file is used to add functionality to the project.
 
